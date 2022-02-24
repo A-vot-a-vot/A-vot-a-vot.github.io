@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 150px;
+	border-radius: 3px;
+	padding: 10px;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 16pt;
+	color: #FFFFFF;
+}
+.b1 {
+	border: solid 3px #B22222;
+	background-color: #FF0000;
+	color: #FFFFFF;
+}
+.b2 {
+	border: solid 3px #008000;
+	position: relative;
+	left: 150px;
+	top: 5px;
+	background-color: #32CD32;
+	color: #FFFFFF;
+}
+.b3 {
+	border: solid 3px #0000CD;
+	position: relative;
+	left: 300px;
+	top: 10px;
+	background-color: #4169E1;
+	color: #FFFFFF;
+}
+.b4 {
+	border: solid 3px #B8860B;
+	position: relative;
+	left: 150px;
+	top: 15px;
+	background-color: #DAA520;
+	color: #FFFFFF;
+}
+.b5 {
+	border: solid 3px #9932CC;
+	position: relative;
+	top: 20px;
+	background-color: #BA55D3;
+	color: #FFFFFF;
+}
